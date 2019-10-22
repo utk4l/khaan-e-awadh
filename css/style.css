@@ -8173,7 +8173,7 @@ h1, h2, h3, h4, h5,
   font-size: 14px; }
   @media (max-width: 991.98px) {
     .top {
-      display: none; } }
+   } }
 
 .ftco-navbar-light {
   background: transparent !important;
